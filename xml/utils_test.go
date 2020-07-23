@@ -3,8 +3,8 @@ package xml
 import (
 	"errors"
 	"fmt"
-	"github.com/moovweb/gokogiri/help"
-	"github.com/moovweb/gokogiri/xpath"
+	"github.com/aokabi/gokogiri/help"
+	"github.com/aokabi/gokogiri/xpath"
 	"io/ioutil"
 	"path/filepath"
 	"strings"
